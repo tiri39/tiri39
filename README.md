@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, Sadia here!</h1>
-<p align="center">I'm an undergraduate student at Jahangirnagar University majoring on Computer Science & Engineering. I've explored fields like competetive programming, object oriented programming, web development. Recently I've grown an interest in machine learning.</p>
+<p align="center">I'm an undergraduate student at Jahangirnagar University majoring on Computer Science & Engineering. I've explored fields like competetive programming, object oriented programming, web development & mobile app development.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
