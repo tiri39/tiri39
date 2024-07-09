@@ -1,5 +1,9 @@
 <h1 align="center">Hi👋, Sadia here!</h1>
-<p align="center">I'm an undergraduate student at Jahangirnagar University majoring on Computer Science & Engineering. I've explored fields like competetive programming, object oriented programming, web development & mobile app development.</p>
+<p>I'm a dedicated Junior Quality Assurance Engineer at DSi. In my current role, I have had the opportunity to work on both government and international projects, enhancing my skills and gaining valuable experience. I am well-versed in using TestRails, GitHub Actions, and Slack for effective communication and collaboration.
+
+I graduated with a BSc in Computer Science & Engineering, achieving a CGPA of 3.77 out of 4. During my undergraduate years, I spent a significant amount of time engaged in Competitive Programming and problem-solving. I participated in numerous onsite programming contests and solved over 1500 problems on various online judges, which honed my analytical and coding skills.
+
+In my final year, I developed a keen interest in machine learning. I dedicated myself to this new passion and completed two substantial machine learning projects. This experience not only broadened my technical knowledge but also fueled my curiosity for exploring emerging technologies. As a fast learner and an avid explorer, I am always eager to take on new challenges and continue growing in my professional journey.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
